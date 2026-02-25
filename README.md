@@ -44,19 +44,17 @@
 ## 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandukotla525&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandukotla525&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nandukotla525&show_icons=true&theme=radical&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandukotla525&theme=radical&cache_seconds=1800" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandukotla525&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandukotla525&layout=compact&theme=radical&cache_seconds=1800" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=nandukotla525&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandukotla525&theme=react-dark" />
 </p>
-
----
 
 ## 🧠 LeetCode Status
 
